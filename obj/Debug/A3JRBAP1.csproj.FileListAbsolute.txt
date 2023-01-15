@@ -1,0 +1,15 @@
+C:\PROG1925\assigments\A3JRBAP1\bin\Debug\A3JRBAP1.exe.config
+C:\PROG1925\assigments\A3JRBAP1\bin\Debug\A3JRBAP1.exe
+C:\PROG1925\assigments\A3JRBAP1\bin\Debug\A3JRBAP1.pdb
+C:\PROG1925\assigments\A3JRBAP1\obj\Debug\A3JRBAP1.csproj.AssemblyReference.cache
+C:\PROG1925\assigments\A3JRBAP1\obj\Debug\A3JRBAP1.csproj.CoreCompileInputs.cache
+C:\PROG1925\assigments\A3JRBAP1\obj\Debug\A3JRBAP1.exe
+C:\PROG1925\assigments\A3JRBAP1\obj\Debug\A3JRBAP1.pdb
+C:\PROG1925\assigments\A3JRBA\A3JRBAP1\bin\Debug\A3JRBAP1.exe.config
+C:\PROG1925\assigments\A3JRBA\A3JRBAP1\bin\Debug\A3JRBAP1.exe
+C:\PROG1925\assigments\A3JRBA\A3JRBAP1\bin\Debug\A3JRBAP1.pdb
+C:\PROG1925\assigments\A3JRBA\A3JRBAP1\obj\Debug\A3JRBAP1.csproj.AssemblyReference.cache
+C:\PROG1925\assigments\A3JRBA\A3JRBAP1\obj\Debug\A3JRBAP1.csproj.SuggestedBindingRedirects.cache
+C:\PROG1925\assigments\A3JRBA\A3JRBAP1\obj\Debug\A3JRBAP1.csproj.CoreCompileInputs.cache
+C:\PROG1925\assigments\A3JRBA\A3JRBAP1\obj\Debug\A3JRBAP1.exe
+C:\PROG1925\assigments\A3JRBA\A3JRBAP1\obj\Debug\A3JRBAP1.pdb
